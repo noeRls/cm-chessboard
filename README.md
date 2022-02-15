@@ -1,3 +1,7 @@
+# Fork of cm-chessboard
+
+[original](https://github.com/shaack/cm-chessboard)
+
 # cm-chessboard
 
 A JavaScript chessboard which is lightweight, ES6 module based, responsive, SVG rendered and **without dependencies**.

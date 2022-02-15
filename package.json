@@ -1,5 +1,5 @@
 {
-  "name": "cm-chessboard",
+  "name": "@noerls/cm-chessboard",
   "version": "3.16.4",
   "description": "A JavaScript chessboard which is lightweight, ES6 module based, responsive, SVG rendered and without dependencies.",
   "keywords": [
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shaack/cm-chessboard.git"
+    "url": "git+https://github.com/noeRls/cm-chessboard"
   },
   "author": "Stefan Haack (http://www.shaack.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shaack/cm-chessboard/issues"
+    "url": "https://github.com/noeRls/cm-chessboard/issues"
   },
-  "homepage": "https://github.com/shaack/cm-chessboard#readme",
+  "homepage": "https://github.com/noeRls/cm-chessboard#readme",
   "devDependencies": {
     "teevi": "^2.1.9"
   }
